@@ -198,3 +198,11 @@ A: I love skins and I have database of many things and games, and one thing I al
 Q: You'll try to include other games textures?
 <br>
 A: Yes my man who like skins and shooting games, **CSGO** is included on my plans yes, but only a *look a like* texture, not the real one. Keep that in mind.
+
+---
+
+## Changelog
+
+### Version 0.1.1
+
+- Added a image for preview on ForgeSPT
