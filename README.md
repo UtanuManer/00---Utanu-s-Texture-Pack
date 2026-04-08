@@ -456,10 +456,34 @@ A: Yes my man who like skins and shooting games, **CSGO** is included on my plan
       - Animal_Camo_9_Shadow Leopard
       - Animal_Camo_10_Fire Leopard
       - Animal_Camo_11_Dark Jaguar
+      - Animal_Camo_12_Sand Cheetah
+      - Animal_Camo_13_Cartoon Sand Cheetah
+      - Animal_Camo_14_Gray Wolf
+      - Animal_Camo_15_Matte Black Raven
+      - Animal_Camo_16_Silver Raven
+      - Animal_Camo_17_Brown Eagle
+      - Animal_Camo_18_Cartoon Brown Eagle
+      - Animal_Camo_19_Insect Carapace
+      - Animal_Camo_20_Venomous Spider
+      - Animal_Camo_21_Iridescent Beetle Shell
+      - Animal_Camo_22_Stylized Dragon Scales
+      - Animal_Camo_23_Dark Dragon Breath
+      - Animal_Camo_24_Emerald Wyvern
+      - Animal_Camo_25_Minotaur Fury
+      - Animal_Camo_26_Cartoon Sharks
+      - Animal_Camo_27_Only Sharks
+      - Animal_Camo_28_Shark Scales
+      - Animal_Camo_29_Polar Bear Fur
+      - Animal_Camo_30_Metal Scales
+      - Animal_Camo_31_Albino Python Skin 
+      - Animal_Camo_32_Phantom Lynx 
+      - Animal_Camo_33_Iron Scorpion 
+      - Animal_Camo_34_Savage Hornet
 
-      - Animal_Camo_13_Gray Wolf
-      - Animal_Camo_14_Matte Black Raven
-      - Animal_Camo_15_Silver Raven
-      - Animal_Camo_16_Brown Eagle
-      - Animal_Camo_17_Cartoon Brown Eagle
-      - Animal_Camo_18_Insect Carapace
+### Project Version 0.1.5
+
+-  Fixed GitHub weird changes on last push.
+
+### Project Version 0.1.6
+
+-  Added to documentation, Animal_Camo missing.
