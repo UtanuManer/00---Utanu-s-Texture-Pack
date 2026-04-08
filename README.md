@@ -7,7 +7,6 @@
 
 *   - *If you are here, you probably know for what mod this is for. If not... well... ok ok... check this mod.*
         - **Weapon Camo and Stickers** - Created by **7bpencil**
-            - https://forge.sp-tarkov.com/mod/2658/weapon-camo-and-stickers
 
 ---
 
