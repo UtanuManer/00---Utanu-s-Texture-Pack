@@ -1,0 +1,78 @@
+[
+  {
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.040017195,
+      "y": -0.470914185,
+      "z": -0.088464886
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.5489159,
+      "y": 0.04,
+      "z": 0.2679988
+    },
+    "MaxAngle": 0.0
+  },
+  {
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.040017195,
+      "y": -0.470914185,
+      "z": -0.088464886
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 0.5489159,
+      "y": 0.04,
+      "z": 0.2679988
+    },
+    "MaxAngle": 0.0
+  }
+]

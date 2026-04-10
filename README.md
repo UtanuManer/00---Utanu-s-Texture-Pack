@@ -63,7 +63,12 @@
    - Material
    - Natural
    - Animal
+   - Historic
+   - TarkovLike
    - Special *(Future Update Preview)*
+
+   - Black Market Imports
+   - Turretline Imports
 
 ### Colors
 <details>
@@ -305,26 +310,61 @@
 
 </details>
 
----
-
-### Special Textures
+### Historic Textures
 <details>
 <summary>Texture Names</summary>
 
-*Some people will recognize this paints*
+   - Historic_Camo_1_Classic Olive Drab
+   - Historic_Camo_2_Retro SWAT Matte Black
+   - Historic_Camo_3_Vietnam Tiger Stripe
+   - Historic_Camo_4_Desert Storm
+   - Historic_Camo_5_WWII Winter Wash
+   - Historic_Camo_6_Worn WWII Olive
+   - Historic_Camo_7_Stalingrad Ice & Rust
+   - Historic_Camo_8_Cold War Green
+   - Historic_Camo_9_Soviet Surplus
+   - Historic_Camo_10_80s NATO
+   - Historic_Camo_11_Balkan Urban
+   - Historic_Camo_12_Washed Retro Flecktarn
+   - Historic_Camo_13_Faded Woodland
+   - Historic_Camo_14_Improvised Spray Paint
+   - Historic_Camo_15_Handmade Guerrilla
+   - Historic_Camo_16_Tape & Paint Improvised
+   - Historic_Camo_17_Balkan Guerrilla Camo
+   - Historic_Camo_18_Russian Surplus-Inspired Pattern
+   - Historic_Camo_19_Militia Pattern
+   - Historic_Camo_20_Old-School PMC Pattern
+   
+</details>
 
-   - Afterburner
+---
 
-![alt text](Afterburner_paint.png)
-
-   - Hohloma
-
-![alt text](Coloring_hohloma.png)
+### Custom Textures
+<details>
+<summary>Texture Names</summary>
 
    - Purple Urban
    - Neon Strike
 
 </details>
+
+## Black Market Imports | SOON™
+*Smuggled patterns, reworked for the Norvinsk region. Rumored to have surfaced years ago between the alleys of **Mirage**, the **Dust** of forgotten compounds, and the fire-scarred halls of **Inferno**, these finishes now circulate through Tarkov’s underground trade.*
+
+## Turretline Imports | SOON™
+*Recovered combat patterns, repurposed for the Norvinsk region. Once seen on reinforced hulls and turret platforms in distant combat circuits, these finishes were stripped down and rebuilt for Tarkov’s underground workshops.*
+
+### Textures
+*Originally this 2 textures are from this pack that now have a fictional brand name and a little bit of lore.*
+<details>
+<summary>Texture Names</summary>
+
+   - Afterburner
+   - Hohloma
+
+</details>
+
+---
 
 ## Future Plans
 
@@ -347,24 +387,38 @@ A: Yes my man who like skins and shooting games, **CSGO** is included on my plan
 ## Changelog
 
 ### Project Version 0.1.1
+<details>
+<summary>Version Details</summary>
 
 - Added a image for Afterburner preview on ForgeSPT
 
+</details>
+
 ### Project Version 0.1.2
+<details>
+<summary>Version Details</summary>
 
 - Added a image for Hohloma Preview on ForgeSPT
 
+</details>
+
 ### Project Version 0.1.3
+<details>
+<summary>Version Details</summary>
 
 - Mod Version updated to 0.1.1
    **Structure Change**
    - Moved folder **7Bpencil.WeaponCamoAndStickers** from **SPT/user/mods** to **BepInEx/plugins**
 
+</details>
+
 ### Project Version 0.1.4
+<details>
+<summary>Version Details</summary>
 
 - Mod Version updated to 0.2.0
    
-   - Zip File Size increased to 430MB
+   - Zip File Size increased to 544MB
 
    - Added a new preset
       - SV-98 blank
@@ -480,10 +534,96 @@ A: Yes my man who like skins and shooting games, **CSGO** is included on my plan
       - Animal_Camo_33_Iron Scorpion 
       - Animal_Camo_34_Savage Hornet
 
+</details>
+
 ### Project Version 0.1.5
+<details>
+<summary>Version Details</summary>
 
 -  Fixed GitHub weird changes on last push.
 
-### Project Version 0.1.6
+</details>
 
--  Added to documentation, Animal_Camo missing.
+### Project Version 0.1.6
+<details>
+<summary>Version Details</summary>
+
+-  Added missing Animal_Camo to Documentation.
+
+</details>
+
+### Project Version 0.1.7
+<details>
+<summary>Version Details</summary>
+
+- Mod Version updated to 0.3.0
+
+   - OxiPNG File Size Reduction
+      - Input size: 724 MiB (758807996 bytes)
+      - Output size: 608 MiB (637366908 bytes)
+      - Total saved: 116 MiB (16.00%)
+
+   - Added a new preset
+      - SAG AK-545 blank
+      - Glock 19X blank
+      - SV-98 Champagne Gold
+   
+   - Added Historic Camo
+      - Historic_Camo_1_Classic Olive Drab
+      - Historic_Camo_2_Retro SWAT Matte Black
+      - Historic_Camo_3_Vietnam Tiger Stripe
+      - Historic_Camo_4_Desert Storm
+      - Historic_Camo_5_WWII Winter Wash
+      - Historic_Camo_6_Worn WWII Olive
+      - Historic_Camo_7_Stalingrad Ice & Rust
+      - Historic_Camo_8_Cold War Green
+      - Historic_Camo_9_Soviet Surplus
+      - Historic_Camo_10_80s NATO
+      - Historic_Camo_11_Balkan Urban
+      - Historic_Camo_12_Washed Retro Flecktarn
+      - Historic_Camo_13_Faded Woodland
+      - Historic_Camo_14_Improvised Spray Paint
+      - Historic_Camo_15_Handmade Guerrilla
+      - Historic_Camo_16_Tape & Paint Improvised
+      - Historic_Camo_17_Balkan Guerrilla Camo
+      - Historic_Camo_18_Russian Surplus-Inspired Pattern
+      - Historic_Camo_19_Militia Pattern
+      - Historic_Camo_20_Old-School PMC Pattern
+
+   - Added TarkovLike Camo
+      - TarkovLike_Camo_1_Contractor Gray
+      - TarkovLike_Camo_2_PMC Sand
+      - TarkovLike_Camo_3_PMC Forest
+      - TarkovLike_Camo_4_Matte Black Ops
+      - TarkovLike_Camo_5_Low-Profile Slate
+      - TarkovLike_Camo_6_Raider Rust
+      - TarkovLike_Camo_7_Industrial Tarkov
+      - TarkovLike_Camo_8_BEAR-Inspired Red & Black
+      - TarkovLike_Camo_9_USEC-Inspired Tan & Gray
+      - TarkovLike_Camo_10_Urban Mercenary
+
+   - Added Modern Premium Camo
+      - Modern Premium_Camo_1_Satin Black
+      - Modern Premium_Camo_2_Absolute Matte Black
+      - Modern Premium_Camo_3_Pearl White
+      - Modern Premium_Camo_4_Titanium Gray
+      - Modern Premium_Camo_5_Gunmetal
+      - Modern Premium_Camo_6_Midnight Blue
+      - Modern Premium_Camo_7_Premium Olive Green
+      - Modern Premium_Camo_8_Desert Bronze
+      - Modern Premium_Camo_9_Tactical Champagne Gold
+      - Modern Premium_Camo_10_Dark Rose Gold
+      - Modern Premium_Camo_11_Burnt Copper
+      - Modern Premium_Camo_12_Anodized Purple
+      - Modern Premium_Camo_13_Metallic Dark Red
+      - Modern Premium_Camo_14_Petrol Blue
+      - Modern Premium_Camo_15_Metallic Military Green
+      - Modern Premium_Camo_16_Naval Gray
+      - Modern Premium_Camo_17_Black & Gold Accents
+      - Modern Premium_Camo_18_White & Gold
+      - Modern Premium_Camo_19_Black & Copper
+      - Modern Premium_Camo_20_Obsidian Black
+
+</details>
+
+---
