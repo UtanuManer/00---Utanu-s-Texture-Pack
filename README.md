@@ -351,6 +351,165 @@
 ## Black Market Imports | SOON™
 *Smuggled patterns, reworked for the Norvinsk region. Rumored to have surfaced years ago between the alleys of **Mirage**, the **Dust** of forgotten compounds, and the fire-scarred halls of **Inferno**, these finishes now circulate through Tarkov’s underground trade.*
 
+### Skins
+
+<details>
+<summary>Skin Names</summary>
+
+   - Ancient Earth
+   - Anodized Gunmetal
+   - Anolis
+   - Army Mesh
+   - Army Recon
+   - Army Sheen
+   - Asterion
+   - Autumn Thicket
+   - Bamboo Forest
+   - Bamboo Garden
+   - Bamboo Print
+   - Bamboo Shadow
+   - Barricade
+   - Bee-Tron
+   - Bizoom
+   - Bleached
+   - Blue Blast
+   - Blue Spruce
+   - Blue Tac
+   - Blue Tire
+   - Bone Mask
+   - BorDeux
+   - Boreal Forest
+   - Boroque Sand
+   - Briar
+   - Bronzer
+   - Buff Blue
+   - Byproduct
+   - Canal Spray
+   - Canvas Cloud
+   - Caramel
+   - Charter
+   - Clay Ambush
+   - Cobalt Grip
+   - Colony
+   - Commando Company
+   - Contractor
+   - Contrast Spray
+   - Coolant
+   - Copper Oxide
+   - Crimson Batik
+   - Currents
+   - Daedalus
+   - Death Rattle
+   - Desert Brush
+   - Desert DDPAT
+   - Desert Halftone
+   - Desert Storm
+   - Dirt Drop
+   - Dizzy
+   - Drought
+   - Dry Season
+   - Facility Dark
+   - Facility Draft
+   - Facility Sketch
+   - Faulty Wiring
+   - Forest DDPAT
+   - Forest Leaves
+   - Forest Night
+   - Framework
+   - Grassland
+   - Green Cell
+   - Green Ceramic
+   - Green Plaid
+   - Green Swirl
+   - Grey Smoke
+   - Groundwater
+   - Heist
+   - Hieroglyph
+   - Honey Paisley
+   - Hunting Blind
+   - Impact Drill
+   - Indigo
+   - Inlay
+   - Irradiated Alert
+   - Jungle
+   - Jungle Dashed
+   - Jungle DDPAT
+   - Jungle Thicket
+   - Lichen Dashed
+   - Lime Hex
+   - Lush Ruins
+   - Mandrel
+   - March Grass
+   - Mauve Aside
+   - Mint Mimono
+   - Moon in Libra
+   - Mudder
+   - Multi-Terrain
+   - Navy Murano Detailed
+   - Navy Murano Raw
+   - Navy Sheen
+   - Night
+   - Night Borre
+   - Night Camo
+   - Oil Change
+   - Oil Plaid
+   - Orange Kimono
+   - Palm
+   - Parched
+   - Phoenix Chalk
+   - Pine
+   - Pink Pearl
+   - Plum Netting
+   - Polar Camo
+   - Polar Mesh
+   - Predator
+   - Prey
+   - Raw Ceramic
+   - Red Jasper
+   - Red Stone
+   - Runoff
+   - Rust Coat
+   - Safari Mesh
+   - Safari Print
+   - Sage Camo
+   - Sage Spray
+   - Sand Dashed
+   - Sand Dune
+   - Sans Comic
+   - Scorched
+   - Seabird
+   - Short Ochre
+   - Sienna Damask
+   - Silver Pour
+   - Sleet
+   - Slide
+   - Snake Pit
+   - Stone Mosaico
+   - Storm
+   - Storm Camo
+   - Strats
+   - Submerged
+   - Sunbaked
+   - Surfwood
+   - Surveillance
+   - Swamp DDPAT
+   - Sweeper
+   - Thermal Currents
+   - Tornado
+   - Urban Dashed
+   - Urban DDPAT
+   - Urban Perforated
+   - Walnut
+   - Waves Perforated
+   - Wood Block Camo
+   - Zinc
+
+</details>
+
+### Stickers | SOON™
+
+---
+
 ## Turretline Imports | SOON™
 *Recovered combat patterns, repurposed for the Norvinsk region. Once seen on reinforced hulls and turret platforms in distant combat circuits, these finishes were stripped down and rebuilt for Tarkov’s underground workshops.*
 
@@ -627,3 +786,16 @@ A: Yes my man who like skins and shooting games, **CSGO** is included on my plan
 </details>
 
 ---
+
+### Project Version 0.1.8
+
+<details>
+<summary>Version Details</summary>
+
+- Mod Version updated to 0.4.0
+
+   - OxiPNG File Size Optimization
+
+   - Added 147 *Black Market Import* Texture from Skins
+
+</details>
