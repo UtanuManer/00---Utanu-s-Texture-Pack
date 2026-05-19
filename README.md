@@ -799,3 +799,18 @@ A: Yes my man who like skins and shooting games, **CSGO** is included on my plan
    - Added 147 *Black Market Import* Texture from Skins
 
 </details>
+
+---
+
+### Project Version 0.1.9
+
+<details>
+<summary>Version Details</summary>
+
+- Mod Version updated to 0.5.0
+
+   - OxiPNG File Size Optimization
+
+   - Added 133 *Black Market Import* Texture from Skins
+
+</details>
